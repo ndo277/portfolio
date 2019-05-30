@@ -3809,3 +3809,13 @@ input, select, textarea {
   width: 125px;
   height: 125px;
 }
+
+.linkedin {
+  width: 40px;
+  height:40px;
+}
+
+.icon-row{
+  display: flex;
+  align-items: center;
+}
