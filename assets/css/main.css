@@ -27,7 +27,7 @@ section, summary, time, mark, audio, video {
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+  display: block;}
 
 body {
 	line-height: 1;
@@ -3761,4 +3761,11 @@ input, select, textarea {
 				max-width: 100%;
 			}
 
-		}
+    }
+    
+/* NEW */
+
+.instacam {
+  height: 200px;
+  width: 200px;
+}
