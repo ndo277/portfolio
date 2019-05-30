@@ -2270,7 +2270,7 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+      color: #efa8b0;
 		}
 
 		.icon.style2 {
@@ -3769,6 +3769,7 @@ input, select, textarea {
   height: 200px;
   width: 200px;
   border-radius: 100%;
+  border: solid 1px #dddddd;
 }
 
 .currentjs {
@@ -3779,9 +3780,32 @@ input, select, textarea {
 }
 
 .ccio {
+  border: solid 1px #dddddd;
   border-radius: 100%;
 }
 
 .project-links {
   color: green;
+}
+
+.devicon-ruby-plain-wordmark{
+  font-size: 100px;
+}
+
+.devicon-rails-plain-wordmark{
+  font-size: 100px;
+}
+
+.redux {
+  width: 100px;
+  height: 100px;
+}
+
+.devicon-react-original-wordmark{
+  font-size: 100px;
+}
+
+.javascript {
+  width: 125px;
+  height: 125px;
 }
