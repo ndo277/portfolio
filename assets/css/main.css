@@ -3768,4 +3768,20 @@ input, select, textarea {
 .instacam {
   height: 200px;
   width: 200px;
+  border-radius: 100%;
+}
+
+.currentjs {
+  height: 200px;
+  width: 200px;
+  border: solid 1px #dddddd;
+  border-radius: 100%;
+}
+
+.ccio {
+  border-radius: 100%;
+}
+
+.project-links {
+  color: green;
 }
